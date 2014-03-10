@@ -3,3 +3,5 @@ dodano drug¹ liniê
 i trzeci¹
 jeszcze czwarta linia
 dodano pi¹t¹ liniê w branchu release1
+dosz³a szósta linia która idzie do master
+siódma linia nie idzie
