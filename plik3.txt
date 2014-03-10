@@ -9,3 +9,4 @@ siódma linia nie idzie
 linia 9
 linia 10
 linia 11
+linia 12
