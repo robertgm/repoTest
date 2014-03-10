@@ -2,3 +2,4 @@ dodano plik 3
 dodano drug¹ liniê
 i trzeci¹
 jeszcze czwarta linia
+dodano pi¹t¹ liniê w branchu release1
