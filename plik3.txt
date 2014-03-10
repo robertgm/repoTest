@@ -7,5 +7,10 @@ dosz³a szósta linia która idzie do master
 siódma linia nie idzie
 ósmia linie nie idzie bo siódma posz³a
 linia 9
+<<<<<<< HEAD
 linia 14
 linia 15
+=======
+linia 10
+linia 11
+>>>>>>> 825ee899587975c638bb027071e5043346a9d250
