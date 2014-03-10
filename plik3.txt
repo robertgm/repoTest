@@ -7,3 +7,4 @@ dosz³a szósta linia która idzie do master
 siódma linia nie idzie
 ósmia linie nie idzie bo siódma posz³a
 linia 9
+linia 10
